@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83dfb76d-0a88-4ebc-aa08-426a0d77abae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstAndLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NextGreatestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PeakIndexInMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchINMountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInsert.java" afterDir="false" />
+    <list default="true" id="83dfb76d-0a88-4ebc-aa08-426a0d77abae" name="Changes" comment="Added peak index in mountain array solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstAndLastPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextGreatestLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PeakIndexInMountainArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInsert.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Kalpesh/IdeaProjects/java/BinarySearch/BinarySearch/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.NextGreatestLetter.executor": "Run",
+    "Application.PeakIndexInMountainArray.executor": "Run",
+    "Application.SearchInsert.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Kalpesh/IdeaProjects/java/BinarySearch/BinarySearch/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.PeakIndexInMountainArray">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
@@ -133,8 +120,17 @@
       <workItem from="1753795259749" duration="5713000" />
       <workItem from="1753874600367" duration="5911000" />
       <workItem from="1754068673915" duration="360000" />
-      <workItem from="1754241112606" duration="602000" />
+      <workItem from="1754241112606" duration="1587000" />
     </task>
+    <task id="LOCAL-00001" summary="Added peak index in mountain array solution">
+      <option name="closed" value="true" />
+      <created>1754242173035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754242173035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,11 +141,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added peak index in mountain array solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added peak index in mountain array solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
