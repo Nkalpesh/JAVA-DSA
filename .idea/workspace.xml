@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5acd9cb-f83d-40c2-8f63-b0b8c65e9dd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bubblesort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Selectionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5acd9cb-f83d-40c2-8f63-b0b8c65e9dd7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +31,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Insertionsort.executor": "Run",
+    "Application.InsertionsortMain.executor": "Run",
     "Application.Selectionsort.executor": "Debug",
     "Application.main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -88,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754820656406</updated>
       <workItem from="1754820657484" duration="2474000" />
-      <workItem from="1754930770509" duration="390000" />
+      <workItem from="1754930770509" duration="713000" />
     </task>
     <servers />
   </component>
